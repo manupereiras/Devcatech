@@ -1,0 +1,125 @@
+header{
+    background-color:#e9e3c2;
+    margin-top: 0px;
+    padding-top: 0px;
+    padding-left: 20px;
+    position: fixed;
+    width: 100%;
+    padding-bottom: 10px;
+}
+li{
+     display:
+            inline-block; /* Para permitir padding e border */
+            padding: 10px; /* Espaço interno */
+            border: 2px solid #e7c6ff; /* Borda */
+            border-radius: 5px; /* Cantos arredondados */
+            text-decoration: none;
+            background-color: #c8b6ff;
+            list-style-type: none;
+            font-family: Helvetica, sans-serif;
+            font-size: medium;
+            font-weight: bolder;
+            font-style: italic;
+}
+a{
+    color: #9400c2;
+}
+nav ul {
+    display: flex;
+    justify-content: flex-end;
+    padding: 0px;
+    margin: 0px; 
+    padding-right: 40px;
+}
+nav ul li {
+    margin-right: 20px;
+ 
+}
+nav ul li:last-child {
+    margin-right: 0px;
+}
+
+
+body{
+    margin: 0px;
+    padding: 0px;
+    margin-top: 0px;
+    padding-top: 0px;
+    background-color: #c0c0c0;
+    color: #8E5342;
+}
+main{
+    padding-top: 220px;
+}
+
+h2{ margin-top: 0px;
+    padding-top: 0px;
+    font-family: Roboto;
+    font-weight: 900;
+    font-size: xxx-large;
+    color: #9400c2;
+    font-style: italic;
+}
+h1{
+    font-family: roboto;
+    font-weight: 600;
+    font-size: x-large;
+    color: #9400c2;
+    padding-left: 20px;
+}
+.ppage{
+    font-family: roboto;
+    color: #003366;
+    width: 60%;
+    text-align: justify;
+    font-weight: 50;
+    padding-left: 25px;
+    display: inline-block;
+}
+.container{
+    display: flex;
+    flex-direction: row;
+    
+}
+p{
+   text-indent: 25px;
+}
+img{
+    width: 250px;
+}
+.imgs{
+   display: inline-flexbox;
+   width: 40%;
+   padding-left: 20px;
+}
+.eucaristia{
+    padding: 10px;
+    width: 600px;
+    background-color: #f7f6f6; /* Cor de fundo da caixa */
+    border: 3px solid #ccc; /* Borda */
+    border-radius: 5px; /* Cantos arredondados */
+    margin: 20px auto; /* Centraliza a caixa */
+    overflow: hidden;
+    transition: 0.8s;
+}
+.link_eucaristia{
+    text-decoration: none; /* Remove o sublinhado do link */
+    color: #9400c2; /* Cor do texto */
+    display: contents; /* Faz o link ocupar toda a caixa */
+    height: 100%;
+    position: relative;
+    font-family: Helvetica, sans-serif;
+    transition: 0.8s;
+}
+.eucaristia:hover{
+    transform: scale(1.08);
+}
+.imgeuca{
+    width: 100%;
+    height: auto;
+}
+.allsacra{
+    justify-content: flex-end;
+    display: flex;
+    flex-direction: row-reverse;
+}
