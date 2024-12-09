@@ -1,6 +1,4 @@
-
 # DevCatech 
-
 É um projeto pessoal que fiz para treinar minhas habilidades de front-end principalmente noções de design de interfaces e me ajudar também a estudar sobre o catecismo da Igreja Católica, pois sou catequista. Espero assim compartilhar conhecimentos sobre a fé católica e oferecer uma plataforma acessível e informativa para outras pessoas.
 ## 📓 Descrição
 Tenho como proposta explanar sobre o compêndio que  guia os católicos abordando temas sobre a sua doutrina, sacramentos, moral e oração. 
@@ -13,4 +11,3 @@ Formada em Fisioterapia desde 2022, mas no segundo semestre de 2024 decidi mudar
 - CSS
 - Bootstrap
 - JavaScript
-
