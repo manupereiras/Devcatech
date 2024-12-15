@@ -9,10 +9,10 @@ header{
 }
 li{
      display:
-            inline-block; /* Para permitir padding e border */
-            padding: 10px; /* Espaço interno */
-            border: 2px solid #e7c6ff; /* Borda */
-            border-radius: 5px; /* Cantos arredondados */
+            inline-block; 
+            padding: 10px; 
+            border: 2px solid #e7c6ff; 
+            border-radius: 5px; 
             text-decoration: none;
             background-color: #c8b6ff;
             list-style-type: none;
@@ -95,17 +95,17 @@ img{
 .eucaristia{
     padding: 10px;
     width: 600px;
-    background-color: #f7f6f6; /* Cor de fundo da caixa */
-    border: 3px solid #ccc; /* Borda */
-    border-radius: 5px; /* Cantos arredondados */
-    margin: 20px auto; /* Centraliza a caixa */
+    background-color: #f7f6f6; 
+    border: 3px solid #ccc; 
+    border-radius: 5px; 
+    margin: 20px auto; 
     overflow: hidden;
     transition: 0.8s;
 }
 .link_eucaristia{
-    text-decoration: none; /* Remove o sublinhado do link */
-    color: #9400c2; /* Cor do texto */
-    display: contents; /* Faz o link ocupar toda a caixa */
+    text-decoration: none; 
+    color: #9400c2; 
+    display: contents; 
     height: 100%;
     position: relative;
     font-family: Helvetica, sans-serif;
